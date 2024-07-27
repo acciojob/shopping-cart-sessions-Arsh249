@@ -87,4 +87,3 @@ clearCartBtn.addEventListener("click", clearCart);
 // Initial render
 renderProducts();
 renderCart();
-
